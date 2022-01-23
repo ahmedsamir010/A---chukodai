@@ -1,4 +1,4 @@
-﻿//Link Problem==>https://codeforces.com/problemset/problem/427/A
+﻿//Link Problem==>https://atcoder.jp/contests/abc236/tasks/abc236_a
 #include <iostream>
 #include<iomanip>
 #include<cmath>
